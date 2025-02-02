@@ -1,0 +1,47 @@
+public class DecisionStructures {
+
+    public static void main(String[] args) {
+
+System.out.println("Program evaluates user-entered characters.\n"
+                + "Use following characters: W or w, C or c, H or h, N or n.\n"
+                + "Use following decision structures: if...else, and switch.\n"
+                + "\n"
+                + "Phone types: W or w (work), C or c (cell), H or h (home), N or n (none).\n"
+                + "Enter phone type: w\n"
+                + "\n"
+                + "if...else:\n"
+                + "Phone type: work\n"
+                + "\n"
+                + "switch:\n"
+                + "Phone type: work\n"
+                + "\n"
+                + "<C:/tomcat/webapps/lis4381/skillsets>java DecisionStructures\n"
+                + "Program evaluates user-entered characters.\n"
+                + "Use following characters: W or w, C or c, H or h, N or n.\n"
+                + "Use following decision structures: if...else, and switch.\n"
+                + "\n"
+                + "Phone types: W or w (work), C or c (cell), H or h (home), N or n (none).\n"
+                + "Enter phone type: n\n"
+                + "\n"
+                + "if...else:\n"
+                + "Phone type: none\n"
+                + "\n"
+                + "switch:\n"
+                + "Phone type: none\n"
+                + "\n"
+                + "<C:/tomcat/webapps/lis4381/skillsets>java DecisionStructures\n"
+                + "Program evaluates user-entered characters.\n"
+                + "Use following characters: W or w, C or c, H or h, N or n.\n"
+                + "Use following decision structures: if...else, and switch.\n"
+                + "\n"
+                + "Phone types: W or w (work), C or c (cell), H or h (home), N or n (none).\n"
+                + "Enter phone type: Y\n"
+                + "\n"
+                + "if...else:\n"
+                + "Incorrect character entry.\n"
+                + "\n"
+                + "switch:\n"
+                + "Incorrect character entry.\n");
+
+    }
+}
